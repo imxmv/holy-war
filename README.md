@@ -6,3 +6,5 @@ Used technologies:
 - HTML5
 - Firebase services
 - Webpack
+
+Demo: https://holy-war.firebaseapp.com/
